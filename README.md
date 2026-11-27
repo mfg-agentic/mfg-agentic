@@ -9,4 +9,4 @@ I design, build, and deploy governed multi-agent workflows and end-to-end API au
 * **Enterprise AI Enablement:** Coaching engineering and business teams from roadmap to production deployment (*Anthropic AI Fluency for Educators* certification).
 
 #### Stack & Ecosystem
-`Claude Code` • `Cursor` • `n8n` • `Make` • `REST APIs & Webhooks` • `Brevo / Salesforce` • `GitHub`
+`ElevenLabs API` • `Claude Code` • `Cursor` • `n8n` • `Make` • `REST APIs & Webhooks` • `Brevo / Salesforce`
